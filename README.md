@@ -31,7 +31,6 @@ Most of the time after, joining an online discussion, course, mentoring, we woul
   When an operations is completed successfuly, we will be visualy notified by the app as below.
   ![completed_task](https://user-images.githubusercontent.com/48753146/202969181-c3d7f006-e033-42b8-a956-1756ee5cd4ea.PNG)
   
-  ## Some error we can encounter:
-   - NO TRANSLATED LANGUAGE HAS BEEN SELECTED
-   - CHARACTERS TO BE TRANSLATED ARE LIMITTED TO 5000
-   - WRONG FILE EXTENSION. ONLY '.TXT' IS UPPORTED
+  ## List of languages supported for translation
+  ![languages_list2](https://user-images.githubusercontent.com/48753146/202970873-d78d295e-71d2-4b6e-96e3-6ec880a5b908.PNG)
+
